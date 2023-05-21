@@ -1,3 +1,5 @@
 Added a line in remote
 Added second line in remote
 Added third line in remote
+Added a line local branch
+Added third line in branch
